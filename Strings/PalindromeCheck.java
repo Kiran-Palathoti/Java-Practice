@@ -26,7 +26,7 @@ class PalindromeCheck {
         return true;
     }
   public static void main(String[] args){
-    String s = "MARKRAM";
+    String s = "RACECAR";
     if(isPalindrome(s){
       System.out.println("Palindrome");
 }
